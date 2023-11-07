@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aslanpour
 - 👀 I’m interested in distributed systems
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on DevOps paractices, Automation, Containerization, ...
+- 🌱 I’m currently learning Advanced DevOps.
+- 💞️ I’m looking to collaborate on DevOps paractices, Integration, Automation, Containerization, ...
 - 📫 How to reach me search Sam Aslanpour on LinkedIn
 
 <!---
